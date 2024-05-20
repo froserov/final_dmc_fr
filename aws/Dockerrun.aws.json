@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "975050103432.dkr.ecr.us-east-1.amazonaws.com/fr-registry:latest"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 8501
+      }
+    ]
+  }
